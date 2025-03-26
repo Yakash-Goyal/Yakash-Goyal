@@ -39,5 +39,5 @@
   <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Yakash-Goyal" alt="Yakash-Goyal" /></p></div>
 <br clear="both"><br><br>
 
-![Yakash's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yakash-Goyal&bg_color=333333&color=ffffff&line=78fd96&point=78fd96&area=true&hide_border=true)
+
 
